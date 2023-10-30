@@ -1,0 +1,18 @@
+i1 = aerial-yoga-hatha-yoga-classes-course-lesson-for-adult-kid-women-jlt-marina-palm-jumeirah-dubai
+
+i2 = bachata-jlt-marina-palm-jumeirah-dubai
+
+i3 = ballet-dance-classes-course-lesson-for-adult-kid-women-jlt-marina-palm-jumeirah-dubai
+
+i4 = contemporary-dance-classes-course-lesson-for-adult-kid-women-jlt-marina-palm-jumeirah-dubai
+
+i5 = hip-hop-dance-classes-course-lesson-for-adult-kid-women-jlt-marina-palm-jumeirah-dubai
+
+i6 = kizomba-jlt-marina-palm-jumeirah-dubai
+
+i7 = pol-fitness-dance-classes-course-lesson-for-adult-kid-women-jlt-marina-palm-jumeirah-dubai
+
+i8 = salsa-jlt-marina-palm-jumeirah-dubai
+
+i9 = zumba-dance-classes-course-lesson-for-adult-kid-women-jlt-marina-palm-jumeirah-dubai
+
